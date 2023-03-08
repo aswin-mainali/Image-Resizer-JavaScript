@@ -97,7 +97,7 @@ body{
   width: 17px;
   height: 17px;
   margin-right: 9px;
-  accent-color: #3c8dbc;
+  accent-color: blue;
 }
 .content .download-btn{
   width: 100%;
@@ -109,7 +109,7 @@ body{
   border-radius: 5px;
   padding: 15px 0;
   margin: 30px 0 10px;
-  background: #3c8dbc;
+  background: blue;
   text-transform: uppercase;
 }
 .credit{
